@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Adarsh 👋</h1>
 
 <p align="center">
-  <em>CS/IT Student &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; AI & Data Science Enthusiast</em>
+  <em> Student &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; AI & Data Science Enthusiast</em>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Pursuing a degree in **Computer Science / IT**
+- 🎓 Pursuing a degree in **Integrated M.Tech (IoT)**
 - 🤖 Passionate about **Machine Learning, AI, and Data Science**
 - 🐍 Love building things with **Python** — from games to neuromorphic simulators
 - 🔭 Currently working on projects at the intersection of **AI and real-world problem solving**
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/GitHub-Adarshjat11-181717?style=for-the-badge&logo=github" />
   </a>
   <!-- Add your LinkedIn below once you have it -->
-  <!-- <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/adarsh-jat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> -->
 </p>
