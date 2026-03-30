@@ -1,8 +1,8 @@
-
-<h1 align="center">Hey there, I'm Adarsh 👋</h1>
+<h1 align="center">Hi, I'm Adarsh Jat 👋</h1>
 
 <p align="center">
-  <em> Student &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; AI & Data Science Enthusiast</em>
+  <em>Aspiring Software Engineer &nbsp;•&nbsp; IoT & Embedded Systems Developer &nbsp;•&nbsp; AI & Python Enthusiast</em><br/>
+  <em>Integrated B.Tech + M.Tech in IoT &nbsp;•&nbsp; DAVV, Indore</em>
 </p>
 
 <p align="center">
@@ -13,11 +13,12 @@
 
 ### 🧠 About Me
 
-- 🎓 Pursuing a degree in **Integrated M.Tech (IoT)**
-- 🤖 Passionate about **Machine Learning, AI, and Data Science**
-- 🐍 Love building things with **Python** — from games to neuromorphic simulators
-- 🔭 Currently working on projects at the intersection of **AI and real-world problem solving**
-- 💡 Always curious, always building
+- 🎓 Pursuing an **Integrated B.Tech + M.Tech in Internet of Things (IoT)** at **Devi Ahilya Vishwavidyalaya (DAVV), Indore** *(2022 – 2027)*
+- 🤖 Worked as an **AI Contributor at Soul AI** — building and evaluating AI-powered solutions remotely
+- 🌐 Experienced in **IoT prototyping**, sensor integration, and cloud connectivity (DDU-KK DAVV workshop)
+- 🚀 Built **SignalBoost AI** — a full-stack B2B lead intelligence platform using FastAPI, ML, and web scraping
+- 🌱 Campus Ambassador at **E-Cell, IIT Bombay** — promoted entrepreneurship & startup culture
+- 💬 Always open to collaborating on **AI, IoT, Python, and open-source** projects
 
 ---
 
@@ -25,35 +26,58 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Embedded-brightgreen?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+---
+
+### 💼 Experience
+
+🤖 **AI Contributor** — Soul AI *(Mar 2025 – Jan 2026 · Remote)*
+> Contributed to AI model evaluation and content generation workflows as a freelance collaborator.
+
+🔧 **IoT Product Development Training** — DDU-KK, DAVV Indore *(Aug – Sep 2023)*
+> Hands-on prototyping with sensors, microcontrollers, and cloud integration for real-world IoT applications.
+
+🎯 **Campus Ambassador** — E-Cell, IIT Bombay *(Sep – Dec 2024)*
+> Promoted entrepreneurship events and expanded startup culture on campus.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [📡 SignalBoost AI](https://github.com/Adarshjat11/Signalboost_ai) | AI-driven B2B lead intelligence platform with ML scoring, CRM export & dashboards | FastAPI · Pandas · Playwright · Hunter.io |
+| [🧠 NeuroSim](https://github.com/Adarshjat11/NueroSim) | Neuromorphic computing simulator inspired by brain-like architectures | Python |
+| [🔬 Lab Equipment Scheduler](https://github.com/Adarshjat11/Lab-Equipment-Scheduler) | Smart scheduling system for lab resource management | Python |
+| [🐍 Snake Game](https://github.com/Adarshjat11/Snakes-Game) | Classic Snake game with smooth rendering and collision logic | Python · Pygame |
+| [🐦 Flappy Bird](https://github.com/Adarshjat11/Flappy-Bird) | Flappy Bird clone with gravity physics and scoring system | Python · Pygame |
 
 ---
 
 ### 📚 Currently Learning
 
-- 🧬 **Neuromorphic Computing** — building brain-inspired simulation systems
-- 📊 **Deep Learning** — neural networks, CNNs, and beyond
-- 📡 **Signal Processing & AI** — exploring intelligent signal systems
+- 🧬 **Neuromorphic Computing** — brain-inspired computation models
+- ☁️ **Google Cloud & BigQuery** — data analytics and Gemini AI integration
+- 🤖 **Advanced ML** — lead scoring, NLP, and real-world AI pipelines
+- 📡 **IoT Cloud Integration** — connecting embedded devices to the cloud
 
 ---
 
-### 📌 Featured Projects
+### 🏅 Certifications
 
-| Project | Description | Tech |
-|---|---|---|
-| [🧠 NueroSim](https://github.com/Adarshjat11/NueroSim) | A neuromorphic computing simulator | Python |
-| [📡 Signalboost AI](https://github.com/Adarshjat11/Signalboost_ai) | AI-powered signal enhancement | Python |
-| [🔬 Lab Equipment Scheduler](https://github.com/Adarshjat11/Lab-Equipment-Scheduler) | Smart scheduling system for lab resources | Python |
-| [🐍 Snake Game](https://github.com/Adarshjat11/Snakes-Game) | Classic Snake game built in Python | Python |
-| [🐦 Flappy Bird](https://github.com/Adarshjat11/Flappy-Bird) | Flappy Bird clone | Python |
+- 🏆 **Boost Productivity with Gemini in BigQuery** — *Google Cloud Skills Boost, Nov 2024*
+- 🏆 **Work with Gemini Models in BigQuery** — *Google Cloud Skills Boost, Nov 2024*
 
 ---
 
@@ -76,10 +100,12 @@
   <a href="https://github.com/Adarshjat11" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Adarshjat11-181717?style=for-the-badge&logo=github" />
   </a>
-  <!-- Add your LinkedIn below once you have it -->
-  <a href="https://www.linkedin.com/in/adarsh-jat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  <a href="https://linkedin.com/in/adarsh-jat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Jat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adarshjat3011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adarshjat3011@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -87,4 +113,3 @@
 <p align="center">
   <em>"Build things. Break things. Learn everything."</em>
 </p>
-
