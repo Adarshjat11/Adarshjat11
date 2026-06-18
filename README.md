@@ -17,6 +17,8 @@
 - 🤖 Worked as an **AI Contributor at Soul AI** — building and evaluating AI-powered solutions remotely
 - 🌐 Experienced in **IoT prototyping**, sensor integration, and cloud connectivity (DDU-KK DAVV workshop)
 - 🚀 Built **SignalBoost AI** — a full-stack B2B lead intelligence platform using FastAPI, ML, and web scraping
+- 🔬 Developed a **Lab Equipment Management System** with role-based Student/Admin portals, inventory tracking, automated email notifications, and analytics dashboards
+- 🌐 Built a **Network Packet Sniffer** using Scapy for real-time packet capture, protocol analysis, and network traffic monitoring
 - 🌱 Campus Ambassador at **E-Cell, IIT Bombay** — promoted entrepreneurship & startup culture
 - 💬 Always open to collaborating on **AI, IoT, Python, and open-source** projects
 
@@ -33,6 +35,12 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,6 +65,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
+|🔬 Lab Equipment Management System(https://github.com/Adarshjat11/Lab-Equipment-Scheduler)	|Web-based laboratory inventory management system with role-based access, equipment tracking, automated email notifications, and analytics dashboards	|Python · Streamlit · Pandas · OpenPyXL · SMTP
+🌐 Network Packet Sniffer(https://github.com/Adarshjat11/Network-Packet-Sniffer)	|Real-time packet capture and protocol analysis tool for monitoring TCP, UDP, and ICMP traffic using Scapy|	Python · Scapy · Networking · Cybersecurity
 | [📡 SignalBoost AI](https://github.com/Adarshjat11/Signalboost_ai) | AI-driven B2B lead intelligence platform with ML scoring, CRM export & dashboards | FastAPI · Pandas · Playwright · Hunter.io |
 | [🧠 NeuroSim](https://github.com/Adarshjat11/NueroSim) | Neuromorphic computing simulator inspired by brain-like architectures | Python |
 | [🔬 Lab Equipment Scheduler](https://github.com/Adarshjat11/Lab-Equipment-Scheduler) | Smart scheduling system for lab resource management | Python |
