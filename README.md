@@ -65,8 +65,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-|🔬 Lab Equipment Management System(https://github.com/Adarshjat11/Lab-Equipment-Scheduler)	|Web-based laboratory inventory management system with role-based access, equipment tracking, automated email notifications, and analytics dashboards	|Python · Streamlit · Pandas · OpenPyXL · SMTP
-🌐 Network Packet Sniffer(https://github.com/Adarshjat11/Network-Packet-Sniffer)	|Real-time packet capture and protocol analysis tool for monitoring TCP, UDP, and ICMP traffic using Scapy|	Python · Scapy · Networking · Cybersecurity
+|[🔬 Lab Equipment Management System](https://github.com/Adarshjat11/Lab-Equipment-Scheduler)	|Web-based laboratory inventory management system with role-based access, equipment tracking, automated email notifications, and analytics dashboards	|Python · Streamlit · Pandas · OpenPyXL · SMTP
+|[🌐 Network Packet Sniffer](https://github.com/Adarshjat11/Network-Packet-Sniffer)	|Real-time packet capture and protocol analysis tool for monitoring TCP, UDP, and ICMP traffic using Scapy|	Python · Scapy · Networking · Cybersecurity
 | [📡 SignalBoost AI](https://github.com/Adarshjat11/Signalboost_ai) | AI-driven B2B lead intelligence platform with ML scoring, CRM export & dashboards | FastAPI · Pandas · Playwright · Hunter.io |
 | [🧠 NeuroSim](https://github.com/Adarshjat11/NueroSim) | Neuromorphic computing simulator inspired by brain-like architectures | Python |
 | [🔬 Lab Equipment Scheduler](https://github.com/Adarshjat11/Lab-Equipment-Scheduler) | Smart scheduling system for lab resource management | Python |
